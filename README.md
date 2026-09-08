@@ -43,7 +43,7 @@ Built to demonstrate practical application of the **Microsoft Azure AI Fundament
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AbubakarAli8/azure-sentiment-analyser.git
+git clone https://github.com/ekql-ops/azure-sentiment.git
 cd azure-sentiment-analyser
 ```
 
@@ -155,4 +155,4 @@ This project demonstrates skills from:
 ## Author
 
 **Abubakar Albakri** — BSc Computer Science, Manchester Metropolitan University  
-[GitHub](https://github.com/AbubakarAli8)
+[GitHub](https://github.com/ekql-ops)
